@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-22T23:17:18 IST" name="Default suite" finished-at="2023-07-22T23:18:21 IST" duration-ms="63330">
+    <groups>
+    </groups>
+    <test started-at="2023-07-22T23:17:18 IST" name="Default test" finished-at="2023-07-22T23:18:21 IST" duration-ms="63330">
+      <class name="com.mvn.LoginPage">
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:17:18 IST" name="Beforeclass" finished-at="2023-07-22T23:17:29 IST" duration-ms="11521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:17:29 IST" name="BeforeMethod" finished-at="2023-07-22T23:17:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="loginDetails()[pri:0, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:17:29 IST" name="loginDetails" finished-at="2023-07-22T23:17:36 IST" duration-ms="6594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDetails -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:17:36 IST" name="BeforeMethod" finished-at="2023-07-22T23:17:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="cartDetails()[pri:1, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:17:36 IST" name="cartDetails" finished-at="2023-07-22T23:18:14 IST" duration-ms="38339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartDetails -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mvn.LoginPage@618b19ad]" started-at="2023-07-22T23:18:14 IST" name="afterClass" finished-at="2023-07-22T23:18:21 IST" duration-ms="6770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mvn.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
